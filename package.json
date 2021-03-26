@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "can-sum.js",
+  "scripts": {
+    "start": "nodemon --watch can-sum.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
