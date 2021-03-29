@@ -4,7 +4,8 @@
   "description": "",
   "main": "can-sum.js",
   "scripts": {
-    "start": "nodemon --watch can-sum.js"
+    "start": "nodemon --watch best-sum.js",
+		"ts:compile": "tsc -w"
   },
   "keywords": [],
   "author": "",
